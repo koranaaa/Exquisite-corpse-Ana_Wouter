@@ -1,8 +1,9 @@
 # Lets work hard, and play hard today!
 
+But maybe let's first work and than play!
+
 So, story!
 One day, two programmers decided to go on a hike. They took a tent, food, but forgot compasses and maps. After several hours of wandering through the forest, one says:
-
 - Listen, we have to find a way home somehow!
 
 The second programmer pulls out a laptop, opens a text editor and starts writing something.
@@ -14,3 +15,4 @@ The second programmer pulls out a laptop, opens a text editor and starts writing
 - So what?
 
 - Then at least we will know where the mistake is! 😄
+
